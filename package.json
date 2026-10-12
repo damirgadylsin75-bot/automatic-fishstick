@@ -1,0 +1,12 @@
+{
+  "name": "automatic-fishstick",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Telegram-бот с нейросетью Gemini, который бесплатно работает на Google Apps Script",
+  "scripts": {
+    "test": "node --test \"tests/*.test.js\""
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

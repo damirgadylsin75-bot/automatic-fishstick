@@ -1,0 +1,7 @@
+node_modules/
+npm-debug.log*
+.DS_Store
+
+# Личные файлы clasp: ID твоего скрипта и токены входа
+.clasp.json
+.clasprc.json
